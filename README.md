@@ -1,4 +1,4 @@
-# CHAT-APPLICATION
+
 
 # 🚀 Real-Time Chat Application
 
@@ -71,13 +71,13 @@ This starts the server with nodemon for automatic restarts during development.
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 realtime-chat-app/
 ├── index.html          # Main HTML file with embedded CSS and JavaScript
 ├── server.js           # Express.js server with WebSocket handling
 ├── package.json        # Project dependencies and scripts
 └── README.md          # Project documentation
-\`\`\`
+```
 
 ## 🎯 How It Works
 
@@ -251,9 +251,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need help:
 
-- 📧 Email: your.email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/realtime-chat-app/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/realtime-chat-app/discussions)
+- 📧 Email: hasinibiyyala833@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/hasini833/CHAT-APPLICATION/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/hasini833/CHAT-APPLICATION/discussions)
 
 ## 🔮 Future Enhancements
 
@@ -272,4 +272,4 @@ If you have any questions or need help:
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Your Name](https://github.com/hasini833)
