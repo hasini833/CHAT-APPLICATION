@@ -285,3 +285,9 @@ If you have any questions or need help:
 ⭐ **Star this repository if you found it helpful!**
 
 Made with ❤️ by [Hasini](https://github.com/hasini833)
+
+## OUTPUT 
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe2876f2-9e53-4398-9a1d-1bd982d80bc8" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8a38c45e-44f2-4bc3-8251-b62f581069fa" />
