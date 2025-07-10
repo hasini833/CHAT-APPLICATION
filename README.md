@@ -272,4 +272,4 @@ If you have any questions or need help:
 
 ⭐ **Star this repository if you found it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/hasini833)
+Made with ❤️ by [Hasini](https://github.com/hasini833)
