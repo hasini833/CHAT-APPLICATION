@@ -286,7 +286,7 @@ If you have any questions or need help:
 
 Made with ❤️ by [Hasini](https://github.com/hasini833)
 
-## OUTPUT 
+## OUTPUT:
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/fe2876f2-9e53-4398-9a1d-1bd982d80bc8" />
 
